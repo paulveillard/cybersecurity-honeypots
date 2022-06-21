@@ -14,7 +14,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Related Lists
 
-- [cybersecurity-pcaptools](https://github.com/paulveillard/cybersecurity-pcaptools) - Useful in network traffic analysis.
+- [cybersecurity-pcaptools](https://github.com/paulveillard/cybersecurity-pcap-tools) - Useful in network traffic analysis.
 - [cybersecurity-malware-analysis](https://github.com/paulveillard/cybersecurity-malware-analysis) - Some overlap here for artifact analysis.
 
 ## Honeypots
