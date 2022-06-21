@@ -5,7 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
 
-- [Cybersecurity Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)
+- [Cybersecurity Honeypots ![Cybersecurity Honeypots](https://github.com/paulveillard/cybersecurity)](#awesome-honeypots-)
 - [Contents](#contents)
   - [Related Lists](#related-lists)
   - [Honeypots](#honeypots)
