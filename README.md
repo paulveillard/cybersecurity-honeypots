@@ -5,7 +5,6 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
 
-- [Cybersecurity Honeypots ![Cybersecurity Honeypots](https://github.com/paulveillard/cybersecurity-honeypots)]
   - [Related Lists](#related-lists)
   - [Honeypots](#honeypots)
   - [Honeyd Tools](#honeyd-tools)
