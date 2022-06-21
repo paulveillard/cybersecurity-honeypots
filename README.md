@@ -5,18 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
 
-
-# Awesome Honeypots [![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of awesome honeypots, plus related components and much more, divided into categories such as Web, services, and others, with a focus on free and open source projects.
-
-There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](CONTRIBUTING.md).
-
-Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
-
-# Contents
-
-- [Awesome Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)
+- [Cybersecurity Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)
 - [Contents](#contents)
   - [Related Lists](#related-lists)
   - [Honeypots](#honeypots)
