@@ -5,8 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
 
-- [Cybersecurity Honeypots ![Cybersecurity Honeypots](https://github.com/paulveillard/cybersecurity)](#awesome-honeypots-)
-- [Contents](#contents)
+- [Cybersecurity Honeypots ![Cybersecurity Honeypots](https://github.com/paulveillard/cybersecurity-honeypots)]
   - [Related Lists](#related-lists)
   - [Honeypots](#honeypots)
   - [Honeyd Tools](#honeyd-tools)
@@ -16,7 +15,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Related Lists
 
-- [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
+- [-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
 ## Honeypots
