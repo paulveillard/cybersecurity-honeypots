@@ -12,12 +12,12 @@ An ongoing & curated collection of awesome software best practices and technique
   - [Data Tools](#data-tools)
   - [Guides](#guides)
 
-## Related Lists
+##  `Related Lists `
 
 - [cybersecurity-pcaptools](https://github.com/paulveillard/cybersecurity-pcap-tools) - Useful in network traffic analysis.
 - [cybersecurity-malware-analysis](https://github.com/paulveillard/cybersecurity-malware-analysis) - Some overlap here for artifact analysis.
 
-## Honeypots
+##  `Honeypots `
 
 - Database Honeypots
 
@@ -468,7 +468,7 @@ An ongoing & curated collection of awesome software best practices and technique
   - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, and automatically share them with the security community.
   - [malwr.com](https://malwr.com/) - Free malware analysis service and community.
 
-## Data Tools
+##  `Data Tools `
 
 - Front Ends
 
@@ -495,7 +495,7 @@ An ongoing & curated collection of awesome software best practices and technique
   - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
   - [ovizart](https://github.com/oguzy/ovizart) - Visual analysis for network traffic.
 
-## Guides
+##  `Guides `
 
 - [T-Pot: A Multi-Honeypot Platform](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
 - [Honeypot (Dionaea and kippo) setup script](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
