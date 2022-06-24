@@ -7,7 +7,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > In computer security terms, a cyber honeypot works in a similar way, baiting a trap for hackers. It's a sacrificial computer system that’s intended to attract cyberattacks, like a decoy. 
 - It mimics a target for hackers, and uses their intrusion attempts to gain information about cybercriminals and the way they are operating or to distract them from other targets.
 
-[honeypot]!(https://github.com/paulveillard/cybersecurity-honeypots/blob/main/img/Honeypot-Security-implementation.png)
+![honeypot](https://github.com/paulveillard/cybersecurity-honeypots/blob/main/img/Honeypot-Security-implementation.png)
 
 ## How honeypots work
 - The honeypot looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure.
