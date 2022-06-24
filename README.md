@@ -19,6 +19,7 @@ A honeypot isn't set up to address a specific problem, like a firewall or anti-v
 
 ## Different types of honeypot and how they work
 Different types of honeypot can be used to identify different types of threats. Various honeypot definitions are based on the threat type that's addressed. All of them have a place in a thorough and effective cybersecurity strategy.
+![honeypot categorize](https://github.com/paulveillard/cybersecurity-honeypots/blob/main/img/honeypot-categorized.png)
 
 #### Email Traps
 - Email traps or spam traps place a fake email address in a hidden location where only an automated address harvester will be able to find it. Since the address isn't used for any purpose other than the spam trap, it's 100% certain that any mail coming to it is spam. All messages which contain the same content as those sent to the spam trap can be automatically blocked, and the source IP of the senders can be added to a denylist.
