@@ -29,6 +29,14 @@ Different types of honeypot can be used to identify different types of threats. 
 #### Spider Honeypot
 - A spider honeypot is intended to trap webcrawlers ('spiders') by creating web pages and links only accessible to crawlers. Detecting crawlers can help you learn how to block malicious bots, as well as ad-network crawlers.
 
+## By monitoring traffic coming into the honeypot system, you can assess:
+
+- where the cybercriminals are coming from
+- the level of threat
+- what modus operandi they are using
+- what data or applications they are interested in
+- how well your security measures are working to stop cyberattacks
+
 ## `Table of Contents`
 
   - [Related Lists](#related-lists)
