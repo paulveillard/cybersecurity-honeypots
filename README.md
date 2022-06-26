@@ -17,7 +17,7 @@ Honeypots are made attractive to attackers by building in deliberate security vu
 ![honeypot](https://github.com/paulveillard/cybersecurity-honeypots/blob/main/img/Honeypot-Security-implementation.png)
 A honeypot isn't set up to address a specific problem, like a firewall or anti-virus. Instead, it's an information tool that can help you understand existing threats to your business and spot the emergence of new threats. With the intelligence obtained from a honeypot, security efforts can be prioritized and focused.
 
-## Different types of honeypot and how they work
+## `Different types of honeypot and how they work`
 Different types of honeypot can be used to identify different types of threats. Various honeypot definitions are based on the threat type that's addressed. All of them have a place in a thorough and effective cybersecurity strategy.
 ![honeypot categorize](https://github.com/paulveillard/cybersecurity-honeypots/blob/main/img/honeypot-categorized.png)
 
