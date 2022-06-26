@@ -24,7 +24,7 @@ Different types of honeypot can be used to identify different types of threats. 
 #### `Email Traps`
 - Email traps or spam traps place a fake email address in a hidden location where only an automated address harvester will be able to find it. Since the address isn't used for any purpose other than the spam trap, it's 100% certain that any mail coming to it is spam. All messages which contain the same content as those sent to the spam trap can be automatically blocked, and the source IP of the senders can be added to a denylist.
 
-#### Decoy Database
+#### `Decoy Database`
 - A decoy database can be set up to monitor software vulnerabilities and spot attacks exploiting insecure system architecture or using SQL injection, SQL services exploitation, or privilege abuse.
 
 #### Malware Honeypot
