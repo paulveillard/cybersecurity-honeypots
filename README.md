@@ -27,7 +27,7 @@ Different types of honeypot can be used to identify different types of threats. 
 #### `Decoy Database`
 - A decoy database can be set up to monitor software vulnerabilities and spot attacks exploiting insecure system architecture or using SQL injection, SQL services exploitation, or privilege abuse.
 
-#### Malware Honeypot
+#### `Malware Honeypot`
 - A malware honeypot mimics software apps and APIs to invite malware attacks. The characteristics of the malware can then be analyzed to develop anti-malware software or to close vulnerabilities in the API.
 
 #### Spider Honeypot
