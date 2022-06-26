@@ -30,7 +30,7 @@ Different types of honeypot can be used to identify different types of threats. 
 #### `Malware Honeypot`
 - A malware honeypot mimics software apps and APIs to invite malware attacks. The characteristics of the malware can then be analyzed to develop anti-malware software or to close vulnerabilities in the API.
 
-#### Spider Honeypot
+#### `Spider Honeypot`
 - A spider honeypot is intended to trap webcrawlers ('spiders') by creating web pages and links only accessible to crawlers. Detecting crawlers can help you learn how to block malicious bots, as well as ad-network crawlers.
 
 ## By monitoring traffic coming into the honeypot system, you can assess:
