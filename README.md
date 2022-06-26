@@ -10,7 +10,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ![honeypot architecture](https://github.com/paulveillard/cybersecurity-honeypots/blob/main/img/How-to-Get-Most-Out-of-Honeypot-and-Deception-Technology.png)
 
 
-## How honeypots work
+## `How honeypots work`
 - The honeypot looks like a real computer system, with applications and data, fooling cybercriminals into thinking it's a legitimate target. For example, a honeypot could mimic a company's customer billing system - a frequent target of attack for criminals who want to find credit card numbers. Once the hackers are in, they can be tracked, and their behavior assessed for clues on how to make the real network more secure.
 
 Honeypots are made attractive to attackers by building in deliberate security vulnerabilities. For instance, a honeypot might have ports that respond to a port scan or weak passwords. Vulnerable ports might be left open to entice attackers into the honeypot environment, rather than the more secure live network.
