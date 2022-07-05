@@ -487,7 +487,7 @@ Different types of honeypot can be used to identify different types of threats. 
 - Honeyd stats
   - [Honeydsum.pl](https://github.com/DataSoft/Honeyd/blob/master/scripts/misc/honeydsum-v0.3/honeydsum.pl)
 
-## Network and Artifact Analysis
+## `Network and Artifact Analysis`
 
 - Sandbox
 
